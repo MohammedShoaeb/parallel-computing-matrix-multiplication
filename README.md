@@ -43,7 +43,7 @@ The program concurrently computes the product of two matrices, with each element
 Open your terminal or command prompt, navigate to the project directory, and compile the program:
 
 ```bash
-gcc your_code_file.c -o your_program_name -pthread
+gcc multithreadingPC.c -o multithreadingPC -pthread
 ```
 
 ---
