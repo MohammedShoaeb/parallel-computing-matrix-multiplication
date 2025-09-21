@@ -51,7 +51,7 @@ gcc multithreadingPC.c -o multithreadingPC -pthread
 
 ```sh
 # After compilation, run the executable
-./your_program_name
+./multithreadingPC
 
 # Follow the on-screen prompts to:
 # 1️⃣ Enter matrix dimensions
